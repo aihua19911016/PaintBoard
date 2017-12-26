@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background">#5C5C5C</color>
+    <color name="primary_light">#FBCE34</color>
+    <color name="primary">#FFA338</color>
+    <color name="primary_dark">#C83B1D</color>
+    
+    <color name="item_press">#8a8a8a</color>
+
+</resources>
